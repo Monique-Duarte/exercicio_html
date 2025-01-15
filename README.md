@@ -1,0 +1,1 @@
+O repositório exercicio_html é um projeto educacional focado em exercícios práticos de HTML. O objetivo foi de  aprender e praticar os conceitos fundamentais da linguagem de marcação para desenvolvimento web.
